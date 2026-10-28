@@ -60,3 +60,5 @@ Compose Multiplatform 1.9.0.
 Mata kuliah baru hanya ditambahkan pada `CourseRepositoryImpl.kt` di modul `:shared`.
 Tanpa mengubah kode `:app` maupun `:desktopApp`, mata kuliah **Sistem Operasi** muncul di
 kedua target. Ini membuktikan `:shared` adalah *single source of truth*.
+
+<img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/d8498d1c-02bd-427c-9172-d6fdb53b510f" />
