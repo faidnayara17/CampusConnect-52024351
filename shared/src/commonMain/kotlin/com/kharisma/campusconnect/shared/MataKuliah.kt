@@ -1,4 +1,4 @@
-package com.kharisma.campusconnect.data
+package com.kharisma.campusconnect.shared
 
 data class MataKuliah(
     val id: Int,

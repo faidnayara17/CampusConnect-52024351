@@ -24,3 +24,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "CampusConnect"
 include(":app")
+include(":shared")
+include(":desktopApp")

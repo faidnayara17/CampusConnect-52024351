@@ -2,4 +2,9 @@
 plugins {
     alias(libs.plugins.android.application) apply false
     alias(libs.plugins.kotlin.compose) apply false
+    // Pertemuan 2: plugin untuk modul :shared (KMP) dan :desktopApp (Compose Desktop)
+    alias(libs.plugins.kotlin.multiplatform) apply false
+    alias(libs.plugins.kotlin.jvm) apply false
+    alias(libs.plugins.android.kotlin.multiplatform.library) apply false
+    alias(libs.plugins.compose.multiplatform) apply false
 }
